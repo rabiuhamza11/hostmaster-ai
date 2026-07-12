@@ -1,0 +1,14 @@
+{
+  "name": "hostmaster-ai",
+  "version": "1.0.0",
+  "description": "Enterprise Domain Registration, Cloud Hosting & AI Website Builder — Harz Technology Group",
+  "keywords": ["domain", "hosting", "ai", "website-builder", "dns", "ssl", "nigeria", "saas"],
+  "author": "Rabiu Hamza <hamzarabiu390@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://superagent-2286fb2f.base44.app/functions/hostmasterAI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rabiuhamza11/hostmaster-ai.git"
+  },
+  "engines": { "node": ">=18" }
+}
